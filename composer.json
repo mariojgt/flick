@@ -1,14 +1,13 @@
 {
     "name": "mariojgt/flick",
-    "description": "A laravel page buidler out of the box",
+    "description": "A laravel QrCode lightweight",
     "keywords": [
         "laravel",
-        "grapejs",
-        "grape js",
-        "ck editor",
-        "laravel page builder",
-        "page builder",
-        "builder"
+        "qrcode",
+        "qrcode generator",
+        "lightweight",
+        "laravel qrcode",
+        "laravel qrcode generator"
     ],
     "type": "laravel",
     "license": "MIT",
