@@ -5,9 +5,11 @@ A Laravel Super Low Weight Qrcode Generator using javascript.
 
 1: composer required mariojgt/flick
 
-2: you need to do a php artisan vendor:publish in this package so it can move the need js file to work
+2: composer require mariojgt/flick
 
-### How To use 
+3: php artisan vendor:publish (select the package number)
+
+### How To use
 
 You can do the following.
 
