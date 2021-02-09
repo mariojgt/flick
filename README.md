@@ -5,9 +5,7 @@ A Laravel Super Low Weight Qrcode Generator using javascript.
 
 1: composer required mariojgt/flick
 
-2: composer require mariojgt/flick
-
-3: php artisan vendor:publish (select the package number)
+3: php artisan vendor:publish (select the package number) // Need to publish the js file
 
 ### How To use
 
@@ -36,9 +34,3 @@ You can do the following.
 1: you can generate any string into a qrcode image
 
 2:you can download the image
-
-3:you can display for hide the image
-
-### Planed features
-
-1: send as a post request to a url.
