@@ -8,5 +8,5 @@ Route::group([
     'middleware' => ['web']
 ], function () {
     // Load flick example view
-    Route::get('/flick', [FlickController::class , 'index'])->name('flick');
+    Route::get('/flick', [FlickController::class, 'index'])->name('flick');
 });

@@ -3,7 +3,7 @@
     <script src="{{ asset('vendor/Flick/flickCode.js') }}"></script>
 
     @if ($display == 'true')
-        <div id="flick-img-render" >
+        <div id="flick-img-render">
         </div>
     @endif
 

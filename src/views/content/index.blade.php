@@ -1,4 +1,3 @@
-
 @php
     $myData = [
     'your data1 in here' => 'Data 1',
@@ -7,8 +6,4 @@
     ];
 @endphp
 
-<x-flick::flickImage
-    qrContent="{!! json_encode($myData) !!}"
-    download="true"
-    display="false"
-/>
+<x-flick::flickImage qrContent="{!! json_encode($myData) !!}" download="true" display="false" />
